@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdavistffhrtporg
 - 👀 I’m interested in the Fedora Project
-- 🌱 I’m currently learning how to become a software engineer
-- 💞️ I’m looking to collaborate on FOSS
-- 📫 How to reach me mdavis@fhrp.org
+- 🌱 I’m currently learning...well, learning... :-)
+- 💞️ I’m looking to collaborate with the Fedora Project
+- 📫 How to reach me matthewd@matthewd.xyz
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a degree in psychology and neuroscience. I also studied pain and inflammation during university, and have a publication on that subject
 
