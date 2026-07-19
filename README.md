@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @mdavistffhrtporg
-- 👀 I’m interested in the Fedora Project
-- 🌱 I’m currently learning how to integrate FIDO2 security keys/WebAuthn passkeys into projects like Fedora Silverblue
-- 💞️ I’m looking to collaborate with the Fedora Project or anything that involves cybersecurity
+- 👀 I’m interested in the AI and defensive cybersecurity
+- 🌱 I’m currently learning how use AI to create defensive cybersecurity software.
+- 💞️ I’m looking to collaborate with just about anyone.
 - 📫 How to reach me matthewd@matthewd.xyz or Signal @unknownerror.500
-- 👋    [Book time to meet with me](https://calendar.app.google/zfoMmASXPHpWiLHx9)
+- 👋    [Book time to meet with me](https://calendar.proton.me/bookings#BfyMDcKUl1sQsLMla6iOv_hu6ZTDRjJyybA3ToHZYnw=)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a degree in psychology and neuroscience. I also studied pain and inflammation during university, and have a publication on that subject
+- ⚡ Fun fact: I run at warp speed on coffee.
 
 <!---
 mdavistffhrtporg/mdavistffhrtporg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
