@@ -6,6 +6,8 @@
 - 👋    [Book time to meet with me](https://calendar.proton.me/bookings#BfyMDcKUl1sQsLMla6iOv_hu6ZTDRjJyybA3ToHZYnw=)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I run at warp speed on coffee.
+- ❤️ If I've followed you or forked your repo, it is because I find your work interesting.
+- 🫶 Please consider following me.
 
 <!---
 mdavistffhrtporg/mdavistffhrtporg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
