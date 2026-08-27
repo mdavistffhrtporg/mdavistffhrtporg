@@ -1,9 +1,6 @@
-- 👋 Hi! I'm M D.
+- 👋 Hi! I'm just a figment of your imagination.
 - 👀 I’m interested in the AI and defensive cybersecurity
 - 🌱 I’m currently learning how use AI to create defensive cybersecurity software.
-- 💞️ I’m looking to collaborate with just about anyone.
-- 📫 How to reach me mlaify@mlaify.io or Signal @unknownerror.500
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I run at warp speed on coffee.
 - ❤️ If I've followed you or forked your repo, it is because I find your work interesting.
 - 🫶 Please consider following me.
